@@ -1,0 +1,6 @@
+development:
+  dialect: mysql
+  database: league-dev
+  user: root
+  host: 127.0.0.1
+
